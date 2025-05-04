@@ -11,3 +11,6 @@
 * Softmax layer - 7 nodes
 * 27 epochs
 * Accuracy anf F1 score is ~0.15 only
+## Performance Improvement
+* PCA - 150 components and Logistic Regression (best parameters obtained from hyperparameter tuning)
+* Test accuracy and F1 score is ~0.62
